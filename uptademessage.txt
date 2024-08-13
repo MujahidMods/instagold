@@ -1,0 +1,38 @@
+{
+  "Gold": {
+    "update_code": "0",
+    "reminder_time": "3",
+    "update_version": "v10.0",
+    "com.instagram.android": "https://www.mjwhats.com/2024/07/Instagram-gold.html",
+    "com.instagold.android": "https://www.mjwhats.com/2024/07/Instagram-gold.html",
+    "com.aginsta.android": "https://www.mjwhats.com/2024/07/Instagram-gold.html",
+    "update_message": "
+<p>Update Vطھط­ط¯ظٹط« 10.0</p>
+<li>ط§ظ„طھط­ط¯ظٹط« ظ„ظ†ط³ط®ط© ط§ظ„ظ…ط§ط±ظƒطھ 2.24.8.85</li>
+<li>طھط­ط³ظٹظ† ط§ظ„ط­ظ…ط§ظٹط© ط¶ط¯ ط§ظ„ط­ط¸ط±</li>
+<li>طھط­ط³ظٹظ† ط¥ظ…ظƒط§ظ†ظٹط© ط±ط¨ط· ط§ظ„ط£ط¬ظ‡ط²ط©</li>
+<li>ط¥ط¶ط§ظپط© ظ…ط¤ط«ط±ط§طھ ظ„ظ„ط¯ط±ط¯ط´ط© (ظٹظ…ظƒظ†ظƒ ط§ط®طھظٹط§ط± ط§ظ„ظ…ط¤ط«ط±ط§طھ ظ…ظ† ط§ط¶ط§ظپط§طھ ط§ظ„ط°ظ‡ط¨ظٹ)</li>
+<li>ط¥ط¶ط§ظپط© ط£ظٹظ‚ظˆظ†ط© ظ„ظ„طھط­ظƒظ… ط¨ط§ظ„ظˆط¶ط¹ ط§ظ„ظ„ظٹظ„ظٹ ظ…ظ† ط§ظ„ط´ط§ط´ط© ط§ظ„ط±ط¦ظٹط³ظٹط© + ط®ظٹط§ط± ظ„ط¥ط®ظپط§ط، / ط¥ط¸ظ‡ط§ط± ط§ظ„ط£ظٹظ‚ظˆظ†ط©</li>
+<li>ط¥ط¶ط§ظپط© ط²ط± ط¹ط§ط¦ظ… ظپظٹ ط§ظ„ظ…ط­ط§ط¯ط«ط© ظ…طھط¹ط¯ط¯ ط§ظ„ظ…ظ‡ط§ظ… (ظٹظ…ظƒظ†ظƒ طھظپط¹ظٹظ„ظ‡ ظ…ظ† ط§ط¶ط§ظپط§طھ ط§ظ„ط°ظ‡ط¨ظٹ ط«ظ… ط´ط§ط´ط© ط§ظ„ظ…ط­ط§ط¯ط«ط©)</li>
+<li>ط¥ط¶ط§ظپط© ط²ط± ظ„ظ„ط°ظ‡ط§ط¨ ط¥ظ„ظ‰ ط£ظˆظ„ ط±ط³ط§ظ„ط© ظپظٹ ط§ظ„ظ…ط­ط§ط¯ط«ط©</li>
+<li>ط¥طµظ„ط§ط­ ظ…ط´ظƒظ„ط© ط¸ظ‡ظˆط± ط§ظ„طµط­ظٹظ† ط§ظ„ط£ط²ط±ظ‚ ظپظٹ ظˆط¶ط¹ ط§ظ„ط´ط¨ط­ ط¹ظ†ط¯ظ…ط§ طھظƒظˆظ† ط¯ط§ط®ظ„ ط§ظ„ظ…ط­ط§ط¯ط«ط©</li>
+<li>ط¥طµظ„ط§ط­ ط¹ط¯ظ… ط¸ظ‡ظˆط± ط§ظ„ظ…ط´ط§ط±ظƒط© ظ„ظ„ط³طھظˆط±ظٹ ط¹ظ†ط¯ ط¥ط¹ط§ط¯ط© ط§ظ„طھظˆط¬ظٹظ‡</li>
+<li>ط¥طµظ„ط§ط­ ط´ط§ط´ط© One UI</li>
+<li>ط¥طµظ„ط§ط­ ط¥ط®ظپط§ط، ط§ظ„طµط­ظٹظ† ط§ظ„ظ‚ط±ط§ط،ط©</li>
+<li>ط¥طµظ„ط§ط­ط§طھ ط§ط®ط±ظ‰</li>
+
+<li>Base Update: 2.24.8.85</li>
+<li>Improved Protection anti banned</li>
+<li>Improved Linking Devices</li>
+<li>Added Chat effects (you can choose effects from Gold settings)</li>
+<li> Added icon for controlling night mode from the main screen + option to hide/show the icon</li>
+<li>Added a floating multi-task button in the chat (you can enable it from Gold settings then chat screen)</li>
+<li>Added a button to go to the first message in the chat</li>
+<li>Fixed issue of blue ticks appearing in ghost mode when inside the chat</li>
+<li>Fixed issue of story sharing not appearing when forwarding</li>
+<li>Fixed One UI screen</li>
+<li> Fixed hiding the read receipts</li>
+<li>Other fixes</li>
+"
+    }
+}
