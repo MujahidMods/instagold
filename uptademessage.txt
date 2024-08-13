@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "10",
+    "update_code": "9",
     "reminder_time": "3",
     "update_version": "v9.0",
     "com.instagram.android": "https://www.mjwhats.com/2024/07/Instagram-gold.html",
