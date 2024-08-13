@@ -2,12 +2,12 @@
   "Gold": {
     "update_code": "11",
     "reminder_time": "3",
-    "update_version": "v10.0",
+    "update_version": "v9.0",
     "com.instagram.android": "https://www.mjwhats.com/2024/07/Instagram-gold.html",
     "com.instagold.android": "https://www.mjwhats.com/2024/07/Instagram-gold.html",
     "com.aginsta.android": "https://www.mjwhats.com/2024/07/Instagram-gold.html",
     "update_message": "
-<p>تحديث V10.0</p>
+<p>تحديث V9.0</p>
 <ul>
 <li>النسخة الأساسية: 2.24.8.85</li>
 <li>تحسين الحماية ضد الحظر</li>
